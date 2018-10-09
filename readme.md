@@ -1,7 +1,7 @@
 # readme
 
 ## 目的
-Laravel環境でSocialiteを使用してSalesforce OAuth認証が可能となる環境を作成する。
+Laravel環境でSocialiteを使用してSalesforce OAuth認証が可能となる環境を作成したい。
 
 ## テスト環境
 * Mac OS X
